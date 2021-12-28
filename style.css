@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Island+Moments&family=Josefin+Sans:wght@100&family=Oooh+Baby&family=Rubik&family=Teko:wght@300&family=The+Nautigal&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Island+Moments&family=Josefin+Sans:wght@100&family=Oooh+Baby&family=Rubik:wght@400;500&family=Teko:wght@300&family=The+Nautigal&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.col-1{
+    width:8.33%;
+    float: left;
+}
+
+.col-2{
+    width:16.666%;
+    float: left;
+}
+
+.col-3{
+    width:25%;
+    float: left;
+}
+
+.col-4{
+    width:33.333%;
+    float: left;
+    
+}
+.col-5{
+    width:41.666%;
+    float: left;
+}
+
+.col-6{
+    width:50%;
+    float: left;
+}
+
+
+.col-7{
+    width:58.333%;
+    float: left;
+}
+
+
+.col-8{
+    width:66.666%;
+    float: left;
+}
+
+.col-9{
+    width:75%;
+    float: left;
+}
+
+.col-10{
+    width:83.333%;
+    float: left;
+}
+
+.col-11{
+    width:91.666%;
+    float: left;
+}
+
+.col-12{
+    width:100%;
+    float: left;
+}
+
+/* Container */
+.container{
+    margin-top: 13%;
+    margin-left: 140px;
+    height:100%;
+    border: 0;  
+}
+
+
+/* Image */
+.item img{
+    width: 238px;
+    margin-bottom: -24px;
+}
+
+
+/* Text */
+.item h3{ 
+    font-size: 25px;  
+    padding-top: 10px;
+    color: #fff; 
+    margin-left: 73px;
+    font-family: 'Rubik', sans-serif;
+    }
+
+
+    /* Paragrape */
+.item p{
+    font-size: 20px;
+    display: inline;
+    color: #fff;
+    margin-left: 20px;
+    margin-top: -16px;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+/* Text__container */
+.text__container {
+    background-color: black;
+    margin-top: 20px;
+    border-radius: 0px 0px 30px 30px;
+    border: 0;
+}
+
+
+/* botton */
+.btn {
+    font-size: 17px;
+    margin-bottom: 20px;
+    margin-left:150px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    border: none;
+    background-color:#4CE448;
+    color:#000;
+}
+
+
+/* Second Container */
+.second__container {
+    padding-top:500px;
+    padding-bottom: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+/* Item  BRODER-RADIUS / BOX-SHADOW*/
+.item {
+    box-shadow: 2px 1px 25px;
+    border-radius: 5px 5px 30px 30px;
+    margin-left: 40px;
+    width: 240px;   
+}
